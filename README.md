@@ -10,10 +10,9 @@ In order to execute the file the following items are required:
 * Jupyter.
 - Modules Required:
     * Numpy.
-    * Matplotlib.
-    * Seaborn.
+    * sklearn.
     * Pandas. 
-    * Scipy.
+    * Tensorflow.
 
 Original source of [Iris](https://osdn.net/projects/sfnet_irisdss/downloads/IRIS.csv/) data files.
 
